@@ -3,7 +3,7 @@ Score Keeper Android app. gives a user the ability to keep track of the score of
 
 PROJECT SPECIFICATION
 
-CRITERIA                    MEETS SPECIFICATIONS
+CRITERIA.                      MEETS SPECIFICATIONS
 
 
 Layout
